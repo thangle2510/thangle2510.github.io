@@ -49,7 +49,7 @@ Security:
 Storage:
   - Synology NAS
   - QNAP
-  - HPE Storage: Alletra 5000, Nimble
+  - HPE Storage (Alletra 5000, Nimble)
 
 Endpoint Management:
   - Intune
