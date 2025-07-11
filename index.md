@@ -57,55 +57,59 @@ Languages:
 
 ## 💼 Work Experience
 
-### System Engineer — **Axon Active Vietnam**  
-_December 2022 – Present_
+### **System Engineer**  
+**Axon Active Vietnam**  
+📅 _December 2022 – Present_
 
-> Design, deploy, and manage infrastructure systems while following ISO/IEC 27001:2013 standards.
-
-```python
-# Sample script to enforce MFA using Graph API
-def enforce_mfa(user_id):
-    url = f"https://graph.microsoft.com/v1.0/users/{user_id}"
-    headers = {'Authorization': 'Bearer <token>'}
-    payload = {'strongAuthenticationMethods': ['mfa']}
-    requests.patch(url, headers=headers, json=payload)
-```
-
-- Manage networks, VPNs, firewalls, Wi-Fi, access control.
-- Maintain Hyper-V cluster and physical servers.
-- Manage file servers, NAS/SAN, backups.
-- Administer Exchange Server/Online and automate mailbox management.
-- Integrate internal apps with Microsoft Graph API.
-- Control policy via GPO and Intune, Defender for Endpoint.
-- Implement Azure Site Recovery.
-- Internal documentation and training leader.
+- Spearhead the design and implementation of scalable, secure IT infrastructure aligned with **ISO/IEC 27001:2013** standards.
+- Architect and optimize multi-site network infrastructure including **VPN (SSL, IPSec)**, routing policies, firewall rules, and Wi-Fi access control.
+- Administer **Hyper-V clusters** and perform regular patch management for physical and virtual servers.
+- Lead data storage initiatives with hybrid backup strategies: **on-prem, cross-branch, and immutable backups to Azure**.
+- Manage and maintain **hybrid email systems** (Exchange Server & Exchange Online); develop custom tools using **EWS** and **Microsoft Graph API**.
+- Automate account provisioning and security enforcement using **PowerShell** and **Azure AD/Entra ID** tools.
+- Collaborate with development teams to migrate legacy applications to Azure, leveraging **Conditional Access** and **Enterprise Applications**.
+- Enforce internal IT policies via **GPO**, **Intune**, and **Microsoft Defender for Endpoint**.
+- Design and test disaster recovery solutions using **Azure Site Recovery**.
+- Drive IT automation with **Power Automate** for internal business workflows.
+- Monitor systems proactively using **Zabbix**, **Grafana**, and custom dashboards.
+- Facilitate knowledge sharing and mentoring through internal tech sessions.
+- Provide technical support and documentation to ensure operational excellence.
 
 ---
 
-### System Engineer — **FPT Telecom**  
-_April 2020 – July 2022_
+### **System Engineer**  
+**FPT Telecom**  
+📅 _April 2020 – July 2022_
 
-- 24/7 operation of core VoIP systems with SLA compliance.
-- API development for AI voice services.
-- PoC for internal tooling: Hadoop, GLPI, Endpoint Central.
-- Collaborate with telcos and vendors.
-
----
-
-### IT Officer — **Hung Thinh Corporation**  
-_December 2017 – June 2019_
-
-- Managed Windows AD DS, Cisco switches, Sophos firewall, DHCP, IIS, Squid.
-- Researched and deployed open-source IP-PBX.
-- Provided L2/L3 support and documented IT systems.
+- Maintained high availability of **FPT’s national VoIP infrastructure**, ensuring SLA and OLA compliance for millions of users.
+- Diagnosed and resolved complex telecom issues in coordination with domestic and international telcos and vendors.
+- Engineered **REST APIs** to publish voice data for internal **AI platforms**.
+- Delivered PoC projects for enterprise IT operations: **Barracuda WAF**, **Hadoop**, **Endpoint Central**, and **GLPI**.
+- Acted as internal trainer and SME for voice operations and monitoring tools.
+- Supported business teams with deployment of new voice services and customizations.
 
 ---
 
-### VoIP Engineer — **Minh Phuc Co., Ltd**  
-_March 2017 – October 2017_
+### **IT Officer**  
+**Hung Thinh Corporation**  
+📅 _December 2017 – June 2019_
 
-- Deployed and configured Asterisk-based IP-PBX.
-- Managed AD, DHCP, file server, user training.
+- Managed core IT infrastructure: **Windows AD DS**, **DHCP**, **Cisco Layer 2/3 switches**, **Sophos firewall**, and proxy systems (**HAProxy**, **Nginx**, **Squid**).
+- Administered and supported enterprise-grade **web, print, and file services**.
+- Researched and deployed **open-source PBX** platforms to replace commercial solutions.
+- Provided responsive **L2/L3 technical support** to office staff and project teams.
+- Created technical documentation and infrastructure diagrams for internal knowledge base.
+
+---
+
+### **VoIP Engineer**  
+**Minh Phuc Co., Ltd**  
+📅 _March 2017 – October 2017_
+
+- Designed and deployed **Asterisk dial plans** for large-scale call centers and customer IP-PBX solutions.
+- Configured and maintained infrastructure services: **Active Directory**, **DHCP**, **file server**.
+- Delivered hands-on **end-user training** and remote support for over 100 staff.
+- Collaborated with **external telcos and customers** to implement and maintain telephony projects.
 
 * * *
 
