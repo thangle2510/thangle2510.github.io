@@ -60,7 +60,7 @@ Languages:
 
 ## 💼 Work Experience
 
-### **System Engineer**  
+### **Advanced ICT Engineer**  
 **Axon Active Vietnam**  
 📅 _December 2022 – Present_
 
@@ -78,7 +78,6 @@ Languages:
 - Facilitate knowledge sharing and mentoring through internal tech sessions.
 - Provide technical support and documentation to ensure operational excellence.
 
----
 
 ### **System Engineer**  
 **FPT Telecom**  
@@ -91,7 +90,6 @@ Languages:
 - Acted as internal trainer and SME for voice operations and monitoring tools.
 - Supported business teams with deployment of new voice services and customizations.
 
----
 
 ### **IT Officer**  
 **Hung Thinh Corporation**  
@@ -103,7 +101,6 @@ Languages:
 - Provided responsive **L2/L3 technical support** to office staff and project teams.
 - Created technical documentation and infrastructure diagrams for internal knowledge base.
 
----
 
 ### **VoIP Engineer**  
 **Minh Phuc Co., Ltd**  
