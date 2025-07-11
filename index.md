@@ -155,15 +155,6 @@ Languages:
 
 * * *
 
-> _“When something is important enough, you do it even if the odds are not in your favor.”_ — Elon Musk
-
-```
-Final note: Passionate about technology, and always ready to automate and optimize systems.
-```
-
-
-* * *
-
 ## 🏅 Badges & Stats
 
 ![Azure Certified](https://img.shields.io/badge/Microsoft-AZ--104-blue?logo=microsoft)
@@ -171,8 +162,6 @@ Final note: Passionate about technology, and always ready to automate and optimi
 ![Azure Virtual Desktop](https://img.shields.io/badge/AZ--140-AVD-blueviolet?logo=microsoft)
 ![Docker Certified](https://img.shields.io/badge/Docker-Associate-blue?logo=docker)
 ![VoIP Specialist](https://img.shields.io/badge/VoIP-Asterisk-green?logo=asterisk)
-
-
 
 * * *
 
