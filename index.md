@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ![Avatar](https://github.com/thangle2510/thangle2510.github.io/blob/main/avatar.jpg)
 
 
