@@ -1,4 +1,6 @@
-# Le Duc Thang
+---
+layout: default
+---
 
 ![Avatar]([https://avatars.githubusercontent.com/u/9919?s=200&v=4](https://github.com/thangle2510/thangle2510.github.io/blob/main/avatar.jpg))  
 **System Engineer**  
