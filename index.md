@@ -1,4 +1,4 @@
-![Avatar](https://github.com/thangle2510/thangle2510.github.io/blob/main/avatar.jpg)
+![Avatar](https://raw.githubusercontent.com/thangle2510/thangle2510.github.io/main/avatar.jpg)
 
 
 **System Engineer**  
