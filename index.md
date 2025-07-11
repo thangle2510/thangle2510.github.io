@@ -150,7 +150,6 @@ Languages:
 ## 📦 Projects & Repositories
 
 * [PowerShell MFA Enforcement Scripts](https://github.com/example/mfa-scripts)
-* [VoIP Monitoring Dashboard (Grafana)](https://github.com/example/voip-monitor)
 * [FastAPI User Management](https://github.com/example/fastapi-users)
 
 * * *
@@ -165,7 +164,6 @@ Languages:
 
 * * *
 
-> _“When something is important enough, you do it even if the odds are not in your favor.”_ — Elon Musk
 
 ```
 Final note: Passionate about technology, and always ready to automate and optimize systems.
