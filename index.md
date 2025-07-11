@@ -1,123 +1,150 @@
----
-layout: default
----
+# Le Duc Thang
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+![Avatar]([https://avatars.githubusercontent.com/u/9919?s=200&v=4](https://github.com/thangle2510/thangle2510.github.io/blob/main/avatar.jpg))  
+**System Engineer**  
+[LinkedIn](https://linkedin.com/in/thang-le-28970b91) | **Email:** thang.ld.2510@gmail.com | **Phone:** +84-90-3-631-527
 
 * * *
 
-### Here is an unordered list:
+## About Me
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Over 8 years experience in _System Administration_ and _VoIP Engineering_.  
+Focused on system design, management, and troubleshooting of complex systems.
 
-### And an ordered list:
+* Strong analytical, teamwork, and independent working skills.
+* Willing to learn and lead.
+* Welcomes new challenges, especially in implementation and system development.
+* Experienced trainer.
+* English: enough for current work (email writing, user support); good at reading technical documents.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* * *
 
-### And a nested list:
+## 🛠️ Skill Sets
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+```yaml
+OS:
+  - Windows Server (2016/2019/2022)
+  - Linux (CentOS 7, Ubuntu 18-22)
+Azure:
+  - Entra ID
+  - App Proxy
+  - Site Recovery
+  - VPN
+Security:
+  - Cisco Firepower
+  - SonicWall
+  - Sophos
+  - Fortinet
+Tools:
+  - Docker
+  - Jenkins
+  - GitLab CI
+Languages:
+  - Python
+  - PowerShell
+  - Graph API
+```
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt><strong>Other Key Areas</strong></dt>
+<dd>Active Directory, GPO, DNS, DHCP, MDM, Exchange, Hybrid Email, Monitoring (Zabbix, Grafana), Logging (Graylog)</dd>
+<dd>Virtualization: Hyper-V, ESXi</dd>
+<dd>Backup: Altaro onsite/offsite, Azure Immutable</dd>
+<dd>VoIP: SIP, Asterisk, FusionPBX</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+* * *
+
+## 💼 Work Experience
+
+### System Engineer — **Axon Active Vietnam**  
+_December 2022 – Present_
+
+> Design, deploy, and manage infrastructure systems while following ISO/IEC 27001:2013 standards.
+
+```python
+# Sample script to enforce MFA using Graph API
+def enforce_mfa(user_id):
+    url = f"https://graph.microsoft.com/v1.0/users/{user_id}"
+    headers = {'Authorization': 'Bearer <token>'}
+    payload = {'strongAuthenticationMethods': ['mfa']}
+    requests.patch(url, headers=headers, json=payload)
 ```
 
+- Manage networks, VPNs, firewalls, Wi-Fi, access control.
+- Maintain Hyper-V cluster and physical servers.
+- Manage file servers, NAS/SAN, backups.
+- Administer Exchange Server/Online and automate mailbox management.
+- Integrate internal apps with Microsoft Graph API.
+- Control policy via GPO and Intune, Defender for Endpoint.
+- Implement Azure Site Recovery.
+- Internal documentation and training leader.
+
+---
+
+### System Engineer — **FPT Telecom**  
+_April 2020 – July 2022_
+
+- 24/7 operation of core VoIP systems with SLA compliance.
+- API development for AI voice services.
+- PoC for internal tooling: Hadoop, GLPI, Endpoint Central.
+- Collaborate with telcos and vendors.
+
+---
+
+### IT Officer — **Hung Thinh Corporation**  
+_December 2017 – June 2019_
+
+- Managed Windows AD DS, Cisco switches, Sophos firewall, DHCP, IIS, Squid.
+- Researched and deployed open-source IP-PBX.
+- Provided L2/L3 support and documented IT systems.
+
+---
+
+### VoIP Engineer — **Minh Phuc Co., Ltd**  
+_March 2017 – October 2017_
+
+- Deployed and configured Asterisk-based IP-PBX.
+- Managed AD, DHCP, file server, user training.
+
+* * *
+
+## 🎓 Education
+
+<dl>
+<dt>Engineer in Information Technology</dt>
+<dd>Hanoi Open University, 2023</dd>
+<dt>Associate in Electronic & Telecommunication Engineering Technology</dt>
+<dd>HCMC University of Technology and Education, 2016</dd>
+</dl>
+
+* * *
+
+## 📜 Certifications
+
+| Certification | Year |
+|---------------|------|
+| Azure Administrator Associate (AZ-104) | 2024 |
+| Windows Server Hybrid Administrator Associate (AZ-800/801) | 2023 |
+| Azure Virtual Desktop Specialty (AZ-140) | 2023 |
+| Docker Certified Associate | 2020 |
+| LogiGear Certified Test Professional I | 2018 |
+| Asterisk VoIP Administrator | 2016 |
+| MCSA | 2017 |
+| CCNA | 2016 |
+
+* * *
+
+## 📦 Projects & Repositories
+
+* [PowerShell MFA Enforcement Scripts](https://github.com/example/mfa-scripts)
+* [VoIP Monitoring Dashboard (Grafana)](https://github.com/example/voip-monitor)
+* [FastAPI User Management](https://github.com/example/fastapi-users)
+
+* * *
+
+> _“When something is important enough, you do it even if the odds are not in your favor.”_ — Elon Musk
+
 ```
-The final element.
+Final note: Passionate about technology, and always ready to automate and optimize systems.
 ```
