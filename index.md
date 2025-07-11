@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Avatar]([https://avatars.githubusercontent.com/u/9919?s=200&v=4](https://github.com/thangle2510/thangle2510.github.io/blob/main/avatar.jpg))  
+![Avatar](https://github.com/thangle2510/thangle2510.github.io/blob/main/avatar.jpg)
 **System Engineer**  
 [LinkedIn](https://linkedin.com/in/thang-le-28970b91) | **Email:** thang.ld.2510@gmail.com | **Phone:** +84-90-3-631-527
 
