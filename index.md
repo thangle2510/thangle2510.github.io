@@ -120,21 +120,6 @@ _March 2017 – October 2017_
 
 * * *
 
-## 📜 Certifications
-
-| Certification | Year |
-|---------------|------|
-| Azure Administrator Associate (AZ-104) | 2024 |
-| Windows Server Hybrid Administrator Associate (AZ-800/801) | 2023 |
-| Azure Virtual Desktop Specialty (AZ-140) | 2023 |
-| Docker Certified Associate | 2020 |
-| LogiGear Certified Test Professional I | 2018 |
-| Asterisk VoIP Administrator | 2016 |
-| MCSA | 2017 |
-| CCNA | 2016 |
-
-* * *
-
 ## 📦 Projects & Repositories
 
 * [PowerShell MFA Enforcement Scripts](https://github.com/example/mfa-scripts)
@@ -159,7 +144,6 @@ Final note: Passionate about technology, and always ready to automate and optimi
 ![Azure Virtual Desktop](https://img.shields.io/badge/AZ--140-AVD-blueviolet?logo=microsoft)
 ![Docker Certified](https://img.shields.io/badge/Docker-Associate-blue?logo=docker)
 ![VoIP Specialist](https://img.shields.io/badge/VoIP-Asterisk-green?logo=asterisk)
-![GitHub followers](https://img.shields.io/github/followers/example?style=social)
 
 
 
