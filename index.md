@@ -170,6 +170,5 @@ Languages:
 ```
 Final note: Passionate about technology, and always ready to automate and optimize systems.
 ```
-***
 
 ![Hits](https://hits.sh/thangle2510.github.io.svg?style=flat-square)
