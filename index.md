@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/thangle2510/thangle2510.github.io/main/avatar.jpg" alt="Avatar" width="120"/>
+  <img src="https://raw.githubusercontent.com/thangle2510/thangle2510.github.io/main/avatar.jpg" alt="Avatar" width="175"/>
 </p>
 
 
@@ -33,11 +33,25 @@ Azure:
   - App Proxy
   - Site Recovery
   - VPN
+Email:
+  - Exchange Online
+  - Exchange server (2016/2019)
+  - Mail gateway
 Security:
   - Cisco Firepower
   - SonicWall
   - Sophos
   - Fortinet
+Storage:
+  - Synology NAS
+  - QNAP
+  - HPE Storage: Alletra 5000, Nimble
+Endpoint Management
+  - Intune
+  - Endpoint Central
+Antivirus
+  - MDE
+  - Kaspersky
 Tools:
   - Docker
   - Jenkins
@@ -50,10 +64,10 @@ Languages:
 
 <dl>
 <dt><strong>Other Key Areas</strong></dt>
-<dd>Active Directory, GPO, DNS, DHCP, MDM, Exchange, Hybrid Email, Monitoring (Zabbix, Grafana), Logging (Graylog)</dd>
+<dd>Active Directory, GPO, DNS, DHCP, Printer server, Monitoring (Zabbix, Grafana), Logging (Graylog)</dd>
 <dd>Virtualization: Hyper-V, ESXi</dd>
-<dd>Backup: Altaro onsite/offsite, Azure Immutable</dd>
-<dd>VoIP: SIP, Asterisk, FusionPBX</dd>
+<dd>Backup: Altaro, Azure Immutable</dd>
+<dd>VoIP: SIP, Asterisk, FusionPBX, Aarenet, SBC (Dialogic)</dd>
 </dl>
 
 * * *
@@ -75,6 +89,7 @@ Languages:
 - Design and test disaster recovery solutions using **Azure Site Recovery**.
 - Drive IT automation with **Power Automate** for internal business workflows.
 - Monitor systems proactively using **Zabbix**, **Grafana**, and custom dashboards.
+- Collaborated with key vendors and partners including Microsoft, HPE, FPT, CMC, and Minh Tu Telecomm... for issue escalations, product consultation, and service agreements.
 - Facilitate knowledge sharing and mentoring through internal tech sessions.
 - Provide technical support and documentation to ensure operational excellence.
 
