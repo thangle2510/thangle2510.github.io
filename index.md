@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/thangle2510/thangle2510.github.io/main/avatar.jpg" alt="Avatar" width="120"/>
 </p>
 
