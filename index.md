@@ -28,34 +28,42 @@ Focused on system design, management, and troubleshooting of complex systems.
 OS:
   - Windows Server (2016/2019/2022)
   - Linux (CentOS 7, Ubuntu 18-22)
+
 Azure:
   - Entra ID
   - App Proxy
   - Site Recovery
   - VPN
+
 Email:
   - Exchange Online
   - Exchange server (2016/2019)
   - Mail gateway
+
 Security:
   - Cisco Firepower
   - SonicWall
   - Sophos
   - Fortinet
+
 Storage:
   - Synology NAS
   - QNAP
   - HPE Storage: Alletra 5000, Nimble
-Endpoint Management
+
+Endpoint Management:
   - Intune
   - Endpoint Central
-Antivirus
+
+Antivirus:
   - MDE
   - Kaspersky
+
 Tools:
   - Docker
   - Jenkins
   - GitLab CI
+
 Languages:
   - Python
   - PowerShell
