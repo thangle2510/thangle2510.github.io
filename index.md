@@ -164,7 +164,6 @@ Languages:
 
 ---
 
-## 🔗 Connect with Me
 
 <style>
   .libutton {
@@ -186,8 +185,9 @@ Languages:
 
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=thang-le-28970b91" target="_blank">Follow on LinkedIn</a>
 
+
 ```
-Final note: Passionate about technology, and always ready to automate and optimize systems.
+Passionate about technology, and always ready to automate and optimize systems.
 ```
 
 ![Hits](https://hits.sh/thangle2510.github.io.svg?style=flat-square)
