@@ -162,8 +162,12 @@ Languages:
 ![Docker Certified](https://img.shields.io/badge/Docker-Associate-blue?logo=docker)
 ![VoIP Specialist](https://img.shields.io/badge/VoIP-Asterisk-green?logo=asterisk)
 
-* * *
+---
 
+## 🔗 Connect with Me
+
+**Follow me on LinkedIn:**  
+👉 [www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=thang-le-28970b91](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=thang-le-28970b91)
 
 ```
 Final note: Passionate about technology, and always ready to automate and optimize systems.
