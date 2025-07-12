@@ -5,7 +5,6 @@
 
 
 **System Administrator**  
-[LinkedIn](https://linkedin.com/in/thang-le-28970b91)
 
 * * *
 
