@@ -5,7 +5,7 @@
 
 
 **System Administrator**  
-[LinkedIn](https://linkedin.com/in/thang-le-28970b91) | **Email:** thang.ld.2510@gmail.com | **Phone:** +84-90-3-631-527
+[LinkedIn](https://linkedin.com/in/thang-le-28970b91)
 
 * * *
 
