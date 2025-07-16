@@ -148,8 +148,6 @@ Languages:
 
 ## 📦 Projects & Repositories
 
-* [PowerShell MFA Enforcement Scripts](https://github.com/example/mfa-scripts)
-* [FastAPI User Management](https://github.com/example/fastapi-users)
 
 * * *
 
