@@ -10,7 +10,7 @@
 
 ## About Me
 
-Over 6 years experience in _System Administration_.  
+Over 6 years experience in _System Administrator_.  
 Focused on system design, management, and troubleshooting of complex systems.
 
 * Strong analytical, teamwork, and independent working skills.
