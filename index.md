@@ -10,14 +10,14 @@
 
 ## About Me
 
-Over 8 years experience in _System Administration_ and _VoIP Engineering_.  
+Over 6 years experience in _System Administration_.  
 Focused on system design, management, and troubleshooting of complex systems.
 
 * Strong analytical, teamwork, and independent working skills.
 * Willing to learn and lead.
 * Welcomes new challenges, especially in implementation and system development.
 * Experienced trainer.
-* English: enough for current work (email writing, user support); good at reading technical documents.
+* English: verbal and documentation.
 
 * * *
 
@@ -58,6 +58,15 @@ Antivirus:
   - MDE
   - Kaspersky
 
+Logs:
+  - Graylog
+  - OpenObserve
+
+Monitoring:
+  - Zabbix
+  - Grafana
+  - Send alerts to Telegram, MS Teams
+
 Tools:
   - Docker
   - Jenkins
@@ -71,7 +80,7 @@ Languages:
 
 <dl>
 <dt><strong>Other Key Areas</strong></dt>
-<dd>Active Directory, GPO, DNS, DHCP, Printer server, Monitoring (Zabbix, Grafana), Logging (Graylog)</dd>
+<dd>Active Directory, GPO, DNS, DHCP, Printer server</dd>
 <dd>Virtualization: Hyper-V, ESXi</dd>
 <dd>Backup: Altaro, Azure Immutable</dd>
 <dd>VoIP: SIP, Asterisk, FusionPBX, Aarenet, SBC (Dialogic)</dd>
@@ -87,16 +96,17 @@ Languages:
 
 - Spearhead the design and implementation of scalable, secure IT infrastructure aligned with **ISO/IEC 27001:2013** standards.
 - Architect and optimize multi-site network infrastructure including **VPN (SSL, IPSec)**, routing policies, firewall rules, and Wi-Fi access control.
-- Administer **Hyper-V clusters** and perform regular patch management for physical and virtual servers.
+- Deploy, administer **Hyper-V clusters** and perform regular patch management for physical and virtual servers.
 - Lead data storage initiatives with hybrid backup strategies: **on-prem, cross-branch, and immutable backups to Azure**.
-- Manage and maintain **hybrid email systems** (Exchange Server & Exchange Online); develop custom tools using **EWS** and **Microsoft Graph API**.
+- Manage, maintain and upgrade **hybrid email systems** (Exchange Server & Exchange Online); develop custom tools using **EWS** and **Microsoft Graph API**.
 - Automate account provisioning and security enforcement using **PowerShell** and **Azure AD/Entra ID** tools.
 - Collaborate with development teams to migrate legacy applications to Azure, leveraging **Conditional Access** and **Enterprise Applications**.
+- Manage user/group identity, DNS, DHCP, printer server, NPS/NPS extension,...
 - Enforce internal IT policies via **GPO**, **Intune**, and **Microsoft Defender for Endpoint**.
 - Design and test disaster recovery solutions using **Azure Site Recovery**.
 - Drive IT automation with **Power Automate** for internal business workflows.
 - Monitor systems proactively using **Zabbix**, **Grafana**, and custom dashboards.
-- Collaborated with key vendors and partners including Microsoft, HPE, FPT, CMC, and Minh Tu Telecomm... for issue escalations, product consultation, and service agreements.
+- Collaborated with key vendors and partners including Microsoft, HPE, FPT, CMC, Minh Tu Telecomm... for issue escalations, product consultation, and service agreements.
 - Facilitate knowledge sharing and mentoring through internal tech sessions.
 - Provide technical support and documentation to ensure operational excellence.
 
